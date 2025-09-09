@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Sowyfans",
   description: "Solana with a fans",
   applicationName: "Sowyfans",
-  authors: [{ name: "Pudding" }],
+  authors: [{ name: "Crownss" }],
   keywords: [
     "Solana",
     "Onlyfans",
@@ -36,8 +36,8 @@ export const metadata: Metadata = {
     "Membership",
     "Support Creators",
   ],
-  publisher: "Pudding",
-  creator: "Pudding",
+  publisher: "Crownss",
+  creator: "Crownss",
 };
 
 export default function RootLayout({

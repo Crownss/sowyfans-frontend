@@ -1,8 +1,8 @@
-"use client"
+"use client";
 
 import Link from "next/link";
 
-export default function Error() {
+export default function Error500() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-indigo-900 via-sky-800 to-pink-500 text-white">
       <div className="text-center">
